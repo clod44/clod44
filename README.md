@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning completely unnecessary things at college  
   
 
-- ❓ Ask me about anything related CS, science, art, astronomy, philosophy. I would like to discuss and learn. Im a fast learner  
+- ❓ Ask me about anything related to CS, science, art, astronomy, philosophy. I would like to discuss and learn. Im a self claimed fast learner 
   
 
 - ⚡ Fun fact: If i were to fall into a swimming pool, I would die  
