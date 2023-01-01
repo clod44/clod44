@@ -1,19 +1,16 @@
-### <div align="center">I'm clod44. a freelancer who is learning how to be a full-stack developer</div>  
+### <div align="center">clod44. wannabe full-stack developer</div>  
   
 
-- 🔭 I’m currently working on a Discord music bot  
+- 🔭 I’m currently working on a custom command line interface library for learning purposes.
   
 
 - 🌱 I’m currently learning completely unnecessary things at college  
   
 
-- ❓ Ask me about anything related to CS, science, art, astronomy, philosophy. I would like to discuss and learn. 
+- ❓ loves discussing about anything imaginable
 
 
 - :cat: Im a self proclaimed fast learner 
-  
-
-- ⚡ Fun fact: If i were to fall into a swimming pool, I would die  
   
 
 <br/>  
@@ -72,10 +69,10 @@
 - **[Github](https://github.com/clod44)**  
   
 
-- **[Deviantart](https://www.deviantart.com/sayochi3)**  
+- ~~**[Deviantart](#)**~~  
   
 
-- **Discord .T#8376**  
+- ~~**Discord .T#8376**~~  
   
 
 - **[Pinterest](https://www.pinterest.com/nitrogen6/)**  
