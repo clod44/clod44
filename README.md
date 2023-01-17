@@ -1,16 +1,13 @@
 ### <div align="center">clod44. wannabe full-stack developer</div>  
   
 
-- 🔭 I’m currently working on a custom command line interface library for learning purposes.
+- 🔭 currently teaching myself ascii based interfaces and graphics.
   
-
-- 🌱 I’m currently learning completely unnecessary things at college  
+- 🌱 wasting time in college
   
+- ❓ hates coding
 
-- ❓ loves discussing about anything imaginable
-
-
-- :cat: Im a self proclaimed fast learner 
+- :cat: self proclaimed fast learner 
   
 
 <br/>  
