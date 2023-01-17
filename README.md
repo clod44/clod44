@@ -1,6 +1,3 @@
-### <div align="center">clod44. wannabe full-stack developer</div>  
-  
-
 - 🔭 currently teaching myself ascii based interfaces and graphics.
   
 - 🌱 wasting time in college
@@ -9,11 +6,7 @@
 
 - :cat: self proclaimed fast learner 
   
-
-<br/>  
-
-
-## I have base or higher knowledge in 
+## base or higher knowledge in 
 <table><tr><td valign="top" width="33%">
 
 
@@ -59,35 +52,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-- **[Github](https://github.com/clod44)**  
-  
-
-- ~~**[Deviantart](#)**~~  
-  
-
-- ~~**Discord .T#8376**~~  
-  
-
-- **[Pinterest](https://www.pinterest.com/nitrogen6/)**  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=clod44&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=rt_comp&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div>  
 
-<br/>  
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
