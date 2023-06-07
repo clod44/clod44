@@ -1,4 +1,4 @@
-- 🔭 currently teaching myself ~~ascii based interfaces and graphics~~ 2d camera class.
+- 🔭 loves reinventing the wheel.
   
 - 🌱 wasting time in college
   
