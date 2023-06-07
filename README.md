@@ -1,4 +1,4 @@
-- 🔭 currently teaching myself ascii based interfaces and graphics.
+- 🔭 currently teaching myself ~~ascii based interfaces and graphics~~ 2d camera class.
   
 - 🌱 wasting time in college
   
