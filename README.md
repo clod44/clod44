@@ -1,9 +1,6 @@
 - 🔭 loves reinventing the wheel.
-  
 - 🌱 wasting time in college
-  
 - ❓ hates coding
-
 - :cat: self proclaimed fast learner 
   
 ## base or higher knowledge in 
