@@ -10,7 +10,7 @@
 - Projects: [Anonymous Image Hosting Website](https://github.com/clod44/freemage-hosting), Social Media Post Sharing
 
 ## Game Development 🎮
-- Technologies: Scratch, JavaScript (p5.js), Processing (Java), Godot, Blender
+- Technologies: JavaScript (p5.js), Processing (Java), Godot, Unity, Blender
 - Notable projects: [Terrain Generator](https://youtu.be/NBsvztOfoeE), [Camera2D](https://github.com/clod44/camera2d) Library for p5.js
 
 ## Miscellaneous Technologies and Projects 🛠️
