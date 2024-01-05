@@ -19,6 +19,7 @@
 - Notable projects:
   - [Terrain Generator](https://youtu.be/NBsvztOfoeE)
   - [Camera2D Library for p5.js](https://github.com/clod44/camera2d)
+  - [EasyTimeWarp](https://github.com/clod44/EasyTimeWarp)
 
 ---
 
