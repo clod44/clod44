@@ -15,12 +15,13 @@
 ---
 
 ## Game Development 🎮
-- Technologies: JavaScript (p5.js), Processing (Java), Godot, Unity, Blender
+- Technologies: JavaScript, Processing, Godot, Unity, Blender
 - Notable projects:
   - [Terrain Generator](https://youtu.be/NBsvztOfoeE)
   - [Camera2D Library for p5.js](https://github.com/clod44/camera2d)
   - [EasyTimeWarp](https://github.com/clod44/EasyTimeWarp)
-  - [VolumeExpoLerper](https://github.com/clod44/VolumeExpoLerper) <!-- Added VolumeExpoLerper to your projects -->
+  - [VolumeExpoLerper](https://github.com/clod44/VolumeExpoLerper)
+  - [p5js-debugWindow](https://github.com/clod44/p5js-debugWindow)
 
 ---
 
