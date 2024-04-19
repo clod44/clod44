@@ -2,19 +2,13 @@
 - 🔭 Loves reinventing the wheel.
 - ❓ Hates coding (just likes creating something)
 - :cat: Self-proclaimed fast learner
-- :fire: Unlimited working capacity with a "I am better than everyone" mindset but knows when to be humble.
-
 ---
-
 ## Web and Application Development 💻
 - Technologies: Node.js, Express, React, PHP, MySQL, TypeScript, MongoDB, Bootstrap, Tailwind CSS, and more!
 - Projects:
   - [Anonymous Image Hosting Website](https://github.com/clod44/freemage-hosting)
-  - Social Media Post Sharing
   - [Food ordering website (ongoing)](https://github.com/clod44/foodbox2)
-
 ---
-
 ## Game Development 🎮
 - Technologies: JavaScript, Processing, Godot, Unity, Blender
 - Notable projects:
@@ -23,15 +17,14 @@
   - [EasyTimeWarp](https://github.com/clod44/EasyTimeWarp)
   - [VolumeExpoLerper](https://github.com/clod44/VolumeExpoLerper)
   - [p5js-debugWindow](https://github.com/clod44/p5js-debugWindow)
-
 ---
-
 ## Miscellaneous Technologies and Projects 🛠️
 - Skills: .NET, AWS, TensorFlow.js, C#, Linux
 - Projects:
   - [Number Image Recognition](https://github.com/clod44/tfjs-number-guessing)
   - [Polynomial Regression](https://github.com/clod44/tfjs-polynomial-regression/)
   - [Shape Morphing](https://github.com/clod44/tfjs-shape-morphing)
+  - [Genetic Algorithm Text](https://github.com/clod44/ga-text-predict)
   - [Note Taking Application](https://github.com/clod44/VSNotes)
 
 ---
