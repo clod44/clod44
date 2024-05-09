@@ -5,8 +5,9 @@
 ### Web and Application Development 💻
 - I've worked so far with: PHP, MySQL, Node.js, Express, React, MongoDB, Bootstrap, Tailwind CSS, and more!
 - Notable Web Stuff:
-  - [Anonymous Image Hosting Website](https://github.com/clod44/freemage-hosting)
+  - [Anonymous Image Hosting Website: Freemage](https://github.com/clod44/freemage-hosting)
   - [Feature Complete Food ordering website (ongoing)](https://github.com/clod44/foodbox2)
+  - [Pseudo code compiler: AlgoCompiler](https://github.com/clod44/algo-compiler)
 ---
 ### Game related funky stuff:
   - [Terrain Generator](https://youtu.be/NBsvztOfoeE)
