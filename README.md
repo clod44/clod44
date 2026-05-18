@@ -1,23 +1,17 @@
-## Me
-- 🔭 Loves reinventing the wheel.
-- :cat: Self-claimed fast learner
----
-### Web and Application Development 💻
-- I've worked so far with: PHP, MySQL, Node.js, Express, React, MongoDB, Bootstrap, Tailwind CSS, and more!
-- Notable Web Stuff:
+
   - [Cloud Based Note Taking Webapp with +features : Nigpad](https://github.com/clod44/nigpad)
   - [Anonymous Image Hosting Website: Freemage](https://github.com/clod44/freemage-hosting)
   - [Feature Complete Food ordering website (ongoing)](https://github.com/clod44/foodbox2)
   - [Pseudo code compiler: AlgoCompiler](https://github.com/clod44/algo-compiler)
----
-### Game related funky stuff:
+
+### funky stuff:
   - [Terrain Generator](https://youtu.be/NBsvztOfoeE)
   - [Camera2D Library for p5.js](https://github.com/clod44/camera2d)
   - [EasyTimeWarp library](https://github.com/clod44/EasyTimeWarp)
   - [VolumeExpoLerper library](https://github.com/clod44/VolumeExpoLerper)
   - [p5js-debugWindow library](https://github.com/clod44/p5js-debugWindow)
   - GameJam 🥇: [Re-Bang](https://github.com/clod44/re-bang)
----
+
 ### Tensorflowjs and other related (old):
   - [Number Image Recognition](https://github.com/clod44/tfjs-number-guessing)
   - [Polynomial Regression](https://github.com/clod44/tfjs-polynomial-regression/)
